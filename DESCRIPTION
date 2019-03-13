@@ -1,9 +1,9 @@
 Package: courier
 Title: IBM Courier font for use with extrafont package
-Version: 1.0-0
+Version: 1.1-0
 Author: Paul Murrell
 Maintainer: Paul Murrell <paul@stat.auckland.ac.nz>
 Description: Provides IBM Courier font for use with the 'extrafont' package.
-Depends: extrafont (>= 0.18)
+Depends: extrafont
 License: file LICENCE
 License_restricts_use: yes
